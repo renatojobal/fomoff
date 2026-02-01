@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-02-01T07:50:00.000Z",
+  "events": [
+    {
+      "id": "1",
+      "name": "Batalla de Flores",
+      "description": "El desfile más importante del Carnaval. Carrozas, comparsas, cumbiambas y disfraces recorren la Vía 40.",
+      "city": "barranquilla",
+      "venue": "Vía 40",
+      "date": "2026-02-14",
+      "startTime": "12:00",
+      "endTime": "18:00",
+      "category": "desfile",
+      "official": true,
+      "price": "Gratis (tribuna desde $50,000)",
+      "source": "carnavaldebarranquilla.org",
+      "url": "https://carnavaldebarranquilla.org/"
+    },
+    {
+      "id": "2",
+      "name": "Gran Parada de Tradición",
+      "description": "Desfile de las manifestaciones folclóricas tradicionales del Carnaval.",
+      "city": "barranquilla",
+      "venue": "Vía 40",
+      "date": "2026-02-15",
+      "startTime": "12:00",
+      "endTime": "18:00",
+      "category": "desfile",
+      "official": true,
+      "price": "Gratis (tribuna desde $50,000)",
+      "source": "carnavaldebarranquilla.org",
+      "url": "https://carnavaldebarranquilla.org/"
+    },
+    {
+      "id": "3",
+      "name": "Gran Parada de Fantasía",
+      "description": "Desfile de comparsas con temáticas de fantasía y creatividad.",
+      "city": "barranquilla",
+      "venue": "Vía 40",
+      "date": "2026-02-15",
+      "startTime": "12:00",
+      "endTime": "18:00",
+      "category": "desfile",
+      "official": true,
+      "price": "Gratis (tribuna desde $50,000)",
+      "source": "carnavaldebarranquilla.org",
+      "url": "https://carnavaldebarranquilla.org/"
+    },
+    {
+      "id": "4",
+      "name": "Festival de Orquestas",
+      "description": "Competencia de orquestas y artistas en el estadio Romelio Martínez.",
+      "city": "barranquilla",
+      "venue": "Estadio Romelio Martínez",
+      "date": "2026-02-16",
+      "startTime": "18:00",
+      "endTime": "03:00",
+      "category": "concierto",
+      "official": true,
+      "price": "Desde $80,000",
+      "source": "carnavaldebarranquilla.org",
+      "url": "https://carnavaldebarranquilla.org/"
+    },
+    {
+      "id": "5",
+      "name": "Entierro de Joselito",
+      "description": "Cierre del Carnaval. Desfile satírico donde se 'entierra' a Joselito Carnaval.",
+      "city": "barranquilla",
+      "venue": "Centro de Barranquilla",
+      "date": "2026-02-17",
+      "startTime": "15:00",
+      "endTime": "20:00",
+      "category": "desfile",
+      "official": true,
+      "price": "Gratis",
+      "source": "carnavaldebarranquilla.org",
+      "url": "https://carnavaldebarranquilla.org/"
+    }
+  ],
+  "cities": {
+    "santamarta": {
+      "name": "Santa Marta",
+      "emoji": "🏠",
+      "travelTime": 0,
+      "isBase": true
+    },
+    "barranquilla": {
+      "name": "Barranquilla",
+      "emoji": "🎭",
+      "travelTime": 90,
+      "isBase": false
+    },
+    "cartagena": {
+      "name": "Cartagena",
+      "emoji": "🏰",
+      "travelTime": 240,
+      "isBase": false
+    }
+  },
+  "categories": {
+    "desfile": { "name": "Desfile", "emoji": "🎭" },
+    "concierto": { "name": "Concierto", "emoji": "🎵" },
+    "fiesta": { "name": "Fiesta", "emoji": "🎉" },
+    "cultural": { "name": "Cultural", "emoji": "🎨" },
+    "gastronomia": { "name": "Gastronomía", "emoji": "🍽️" }
+  }
+}
