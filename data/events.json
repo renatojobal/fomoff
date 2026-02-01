@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-01T07:50:00.000Z",
+  "lastUpdated": "2026-02-01T08:19:06.515Z",
   "events": [
     {
       "id": "1",
@@ -75,6 +75,22 @@
       "price": "Gratis",
       "source": "carnavaldebarranquilla.org",
       "url": "https://carnavaldebarranquilla.org/"
+    },
+    {
+      "name": "Lectura del Bando",
+      "description": "Inicio oficial del Carnaval con la lectura del bando por la Reina",
+      "city": "barranquilla",
+      "venue": "Plaza de la Paz",
+      "date": "2026-02-07",
+      "startTime": "17:00",
+      "endTime": "22:00",
+      "category": "cultural",
+      "official": false,
+      "price": "Gratis",
+      "source": "manual",
+      "url": null,
+      "id": "TGVjdHVyYSBk",
+      "addedAt": "2026-02-01T08:19:06.512Z"
     }
   ],
   "cities": {
@@ -98,10 +114,25 @@
     }
   },
   "categories": {
-    "desfile": { "name": "Desfile", "emoji": "🎭" },
-    "concierto": { "name": "Concierto", "emoji": "🎵" },
-    "fiesta": { "name": "Fiesta", "emoji": "🎉" },
-    "cultural": { "name": "Cultural", "emoji": "🎨" },
-    "gastronomia": { "name": "Gastronomía", "emoji": "🍽️" }
+    "desfile": {
+      "name": "Desfile",
+      "emoji": "🎭"
+    },
+    "concierto": {
+      "name": "Concierto",
+      "emoji": "🎵"
+    },
+    "fiesta": {
+      "name": "Fiesta",
+      "emoji": "🎉"
+    },
+    "cultural": {
+      "name": "Cultural",
+      "emoji": "🎨"
+    },
+    "gastronomia": {
+      "name": "Gastronomía",
+      "emoji": "🍽️"
+    }
   }
 }

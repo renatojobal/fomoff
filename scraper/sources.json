@@ -1,0 +1,41 @@
+{
+  "sources": [
+    {
+      "id": "carnaval-oficial",
+      "name": "Carnaval de Barranquilla Oficial",
+      "type": "web",
+      "url": "https://carnavaldebarranquilla.org/",
+      "enabled": true,
+      "priority": 1
+    },
+    {
+      "id": "tuboleta-barranquilla",
+      "name": "TuBoleta - Barranquilla",
+      "type": "web",
+      "url": "https://www.tuboleta.com/eventos/ciudad/barranquilla",
+      "enabled": true,
+      "priority": 2
+    },
+    {
+      "id": "primerafila",
+      "name": "PrimeraFila",
+      "type": "web", 
+      "url": "https://www.primerafila.com.co/",
+      "enabled": true,
+      "priority": 2
+    }
+  ],
+  "instagram": [
+    {
+      "id": "ig-example",
+      "handle": "@ejemplo_promotora",
+      "city": "barranquilla",
+      "enabled": false,
+      "notes": "Agregar cuentas reales aquí"
+    }
+  ],
+  "manual": {
+    "description": "Eventos agregados manualmente o de fuentes no scrapeables",
+    "lastUpdated": null
+  }
+}
