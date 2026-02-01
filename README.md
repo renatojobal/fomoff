@@ -33,4 +33,4 @@ No te pierdas ningún evento en Santa Marta, Barranquilla y Cartagena durante la
 
 ---
 
-*Creado por Navi 🧭 para Renato - Carnaval 2026*
+*Creado por renatojobal - Carnaval 2026*
