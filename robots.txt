@@ -1,0 +1,6 @@
+# robots.txt for FOMOff - Carnaval 2026
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://fomoff.vercel.app/sitemap.xml
